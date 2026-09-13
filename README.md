@@ -1,1 +1,3 @@
-# info-sys-course
+# Курс Информационных систем
+
+- Описание курсовой работы: [docs/project](docs/project)
